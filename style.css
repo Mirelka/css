@@ -1,0 +1,21 @@
+body{
+	background: white;
+}
+.nav{
+	display: flex;
+	
+	justify-content: space-between;
+	align-items: center;
+}
+.nav li{
+	display: inline;
+	color: white;
+	margin-right: 40px
+}
+.tl{ color: #ffffff;
+	font-size: 40px
+}
+header {
+background: url(images/666.png) no-repeat;
+height: 1920px;
+}
